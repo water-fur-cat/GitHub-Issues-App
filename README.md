@@ -6,12 +6,15 @@ We use URLSession to fetch data from the GitHub REST API, and make use of UIKit'
 
 ## User Interface:
 Closed issues:
+<br>
 ![](https://github.com/water-fur-cat/GitHub-Issues-App/blob/main/closed_issues.jpg)
 <br>
 Open issues:
+<br>
 ![](https://github.com/water-fur-cat/GitHub-Issues-App/blob/main/open_issues.jpg)
 <br>
 Deatils:
+<br>
 ![](https://github.com/water-fur-cat/GitHub-Issues-App/blob/main/details.jpg)
 <br>
 
