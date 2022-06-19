@@ -11,6 +11,9 @@ Closed issues:
 Open issues:
 ![](https://github.com/water-fur-cat/GitHub-Issues-App/blob/main/open_issues.jpg)
 <br>
+Deatils:
+![](https://github.com/water-fur-cat/GitHub-Issues-App/blob/main/details.jpg)
+<br>
 
 ## Reference：
 https://www.adoclib.com/blog/storyboard-main-but-did-not-get-a-uitableview-when-using-uitableviewcontroller.html <br>
